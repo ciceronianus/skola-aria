@@ -3,8 +3,8 @@ Profesorství byla čestná a veřejná funkce. [[Webové stránky ŠA]] obsahov
 [V roce 2006](https://web.archive.org/web/20060414065603/http://ario.info:80/), bylo složení profesorů následující:  
 - RNDr. Jan Králík, CSc., matematik a lingvista; 
 - Zdeněk Bárta, senátor PČR; 
- - RNDr. Vilém Holáň, poslanec PČR; 
- - Ivan Medek, publicista a někdejší prezidentův kancléř. 
+- RNDr. Vilém Holáň, poslanec PČR; 
+- Ivan Medek, publicista a někdejší prezidentův kancléř. 
 - Prof. [[Ladislav Hejdánek]], filosof (s poznámkou, že "proti své vůli")
 
 ![[Ladislav Hejdánek#^7f7e83]]

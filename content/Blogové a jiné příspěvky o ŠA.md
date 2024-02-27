@@ -8,4 +8,4 @@
 
 ### 2008 - mozaika z innsbrucku
 * http://mezihorami.blogspot.com/2008/11/kola-aria.html
-* Diskuze pod příspěvkem vedena až do roku 2015.
+* Diskuze pod příspěvkem vedena až do roku 2022.
