@@ -5,6 +5,6 @@ Psí dny - Součást letních konzilí. Období několika dnů, ve kterých se j
 
 Scholy - Přibližně jednou za měsíc, rozdělení podle generací. Ne každý byl v nějaké Schole. Scholy byly mnohem úžeji zaměřené na rozebírání textů a filosofii než konzilia. Ze schol se psaly krátké referáty, tzv. souhrny.
 
-Večery setkání - Odehrávaly se několikrát do měsíce. V určitých dobách existovaly i méně intenzivní Večery setkání v Brně.
+Večery setkání - Odehrávaly se několikrát do měsíce ve vybraný všední den večer. V určitých dobách existovaly i méně intenzivní Večery setkání v Brně.
 
 Nadraníci - Ranní intenzivní setkání. Neexistovala ve všech dobách.

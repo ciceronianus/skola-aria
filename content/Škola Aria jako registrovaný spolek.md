@@ -1,0 +1,1 @@
+[Vznik v roce 1994, od roku 2014 neaktivní.]( https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=765186&typ=UPLNY&sp=H4sIAAAAAAAAAKtWykvMTU0JSCwCUiWpRcVKVtHVStmplUpWQJmq1DIlHaWyxJzSVCD%252F6MLs%252FJxE%250D%250AhcSizESl2thaAA8fc307AAAA%250D%250A)

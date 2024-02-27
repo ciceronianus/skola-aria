@@ -1,0 +1,1 @@
+Pavel Ryjáček byl zakladatelem Školy Aria a jejím dlouholetým vůdcem. Oficiálně měl po léta titul auktora, viz [[Stanovy Školy Aria]], i poté však bych zásadní a kontroverzní osobností (viz zvláště [[Vědecké práce o Škole Aria]] a [[Články o Škole Aria v médiích]]).
