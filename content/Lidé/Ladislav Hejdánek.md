@@ -1,1 +1,4 @@
+---
+draft: "true"
+---
 Asi nejdůležitějším [[Profesoři Školy Aria|profesorem Školy Aria]] byl Ladislav Hejdánek. V jeho online archivu, na jehož správě se podílejí i někteří bývalí členové Školy Aria, lze naleznout několik cenných zmínek o této škole: https://www.hejdanek.eu/ .  ^7f7e83
