@@ -14,13 +14,17 @@ Logo Školy Aria
 
 Přestože mám kritický pohled na Školu Aria na základě své zkušenosti, doufám, že tyto stránky budou spíše neutrálním rozcestníkem a shromaždištěm dokumentů a informací, které jsou či byly veřejné.
 
+Články, studie, podcasty, debaty:
 - [[Články o Škole Aria v médiích]]
 - [[Rozhlasové pořady a podcasty o ŠA]]
 - [[Blogové příspěvky a jiné vzpomínky o ŠA]]
 - [[Vědecké práce o Škole Aria]]
 - [[Veřejné debaty o Škole Aria]]
-- [[Webové stránky ŠA]]
+
+Fungování Školy Aria:
 - [[Stanovy Školy Aria]]
+- [[Etické zásady Školy Aria]]
 - [[Struktura Školy Aria]]
+- [[Webové stránky ŠA]]
 
 Někdy v budoucnu snad přibude i moje osobní zkušenost se Školou Aria.
