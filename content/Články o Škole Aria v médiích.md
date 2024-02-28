@@ -26,7 +26,7 @@ Munimedia
 * https://ct24.ceskatelevize.cz/nazory/1445417-z-kraje-zapadlych-vlastencu
 > "Všichni jsme si byli dobře vědomi, že frekventanti (...) Árie nejsou reprezentativním vzorkem dnešní české mládeže, že třeba právě svým příklonem ke klasické a umělecké hudbě se odlišují od valné většiny svých vrstevníků, ale jelikož pod vzorným vedením vědomě chtějí ze sebe vytvořit kulturní elitu, nelze pochybovat o tom, že jejich vliv na občanskou společnost může být jednou mnohem větší, než by nasvědčoval jejich dnešní počet. A právě to stojí za opravdové zamyšlení."
 
-**1998**
+## 1998
 Sušické noviny (strana 3)
 * [Ať se pořád něco děje - jen ne klídek aneb XXXI. Konzilium Školy Aria](https://docplayer.cz/6550284-Dalsi-podrobne-informace-ziskate-na-tel-c-0187-52-66-82-nebo-52-03-62-ktera-bude-obsahovat-nabidku.html)
 > "Co to je Škola Aria? Tak tedy zeširoka. Už šest let se při Českém rozhlase v Praze scházejí pečlivě vybraní nejtalentovanější studenti - no prostě ta část mladé generace, o které se obvykle soudí, že péči vůbec nepotřebuje. Ale omyl. Český rozhlas si dal za úkol starat se právě o takovou skupinu: jak jistě víte, řada mladých lidí bez potřebné opory končí v průměru ostatních, což se navenek projevuje nedostatkem osobnosti."
