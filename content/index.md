@@ -16,7 +16,7 @@ Přestože mám kritický pohled na Školu Aria na základě své zkušenosti, d
 
 - [[Články o Škole Aria v médiích]]
 - [[Rozhlasové pořady a podcasty o ŠA]]
-- [[Blogové a jiné příspěvky o ŠA]]
+- [[Blogové příspěvky a jiné vzpomínkyo ŠA]]
 - [[Vědecké práce o Škole Aria]]
 - [[Veřejné debaty o Škole Aria]]
 - [[Webové stránky ŠA]]

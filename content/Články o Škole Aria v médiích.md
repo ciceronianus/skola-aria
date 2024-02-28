@@ -4,6 +4,9 @@
 
 Deník N
 * [Elitní spolek ovládl životy mladých Čechů, „odpadlíci“ trpí dlouhé roky traumaty z intimností a manipulací](https://denikn.cz/815634/elitni-spolek-ovladl-zivoty-mladych-odpadlici-trpi-traumaty-z-intimnosti-a-manipulaci/) (paywall)
+	- Apolena Rychlíková darovala tento článek k volnému čtení. Odkaz lze naleznout hledáním na Facebooku.
+		- ![[apolena-rychlikova.png]]
+
 * [Rozvíjející se poupě se nesmí otevírat rukama, popisuje terapeut bývalých členů Školy Aria, jak vedoucí nezvládl svou roli](https://denikn.cz/813658/vudce-skoly-aria-svuj-velky-vliv-nezvladl-reflexi-vnimal-jako-vyhlaseni-valky-rika-terapeut-byvalych-clenu/) (paywall)
 	  * Rozhovor se Zdeňkem Vojtíškem
 
