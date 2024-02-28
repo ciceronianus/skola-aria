@@ -24,12 +24,10 @@ Přestože mám kritický pohled na Školu Aria na základě své zkušenosti, d
 Fungování Školy Aria:
 - [[Stanovy Školy Aria]]
 - [[Struktura Školy Aria]]
-	- [[Pavel Ryjáček]]
-	- [[Lektorský sbor]]
-	- [[Profesoři Školy Aria]]
 - [[Etické zásady Školy Aria]]
 - [[Webové stránky ŠA]]
-- [[Interní akce pro členy Školy Aria]]
-- [[Veřejné akce oficiálně pořádané Školou Aria]]
+- [[Interní akce pro členy Školy Aria|Akce pro členy]]
+- [[Veřejné akce oficiálně pořádané Školou Aria|Veřejné akce]]
+- [[Soutěž Knihovny Václava Havla o nejlepší studentský esej|Neoficiálně pořádané akce]]
 
 Někdy v budoucnu snad přibude i moje osobní zkušenost se Školou Aria.
