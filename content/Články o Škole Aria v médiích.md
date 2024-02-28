@@ -1,5 +1,5 @@
 ## 2022
-Dingir Dingir:
+Časopis Dingir:
 * Stanislav Synek: https://www.dingir.cz/cislo/22/2/skola_plna_paradoxu.pdf
 
 Deník N
@@ -8,8 +8,10 @@ Deník N
 	  * Rozhovor se Zdeňkem Vojtíškem
 
 ## 2021
-Zdeněk Vojtíšek: Náboženství na cestách: Paseky nad Jizerou a Škola Aria (2021)
-https://info.dingir.cz/2021/07/nabozenstvi-na-cestach-paseky-nad-jizerou-a-skola-aria/
+dingir.info
+- Zdeněk Vojtíšek: Náboženství na cestách: Paseky nad Jizerou a Škola Aria (2021)
+	- https://info.dingir.cz/2021/07/nabozenstvi-na-cestach-paseky-nad-jizerou-a-skola-aria/
+
 
 
 ## 2011

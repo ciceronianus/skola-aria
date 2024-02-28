@@ -13,7 +13,7 @@ Logo Školy Aria
 
 ## Co zde naleznete?
 
-Přestože mám kritický pohled na Školu Aria na základě své zkušenosti, doufám, že tyto stránky budou spíše neutrálním rozcestníkem a shromaždištěm dokumentů a informací, které jsou či byly veřejné. Z tohoto důvodu zde naleznete i některá jména, například jméno zakladatele a dlouholetého vůdce Školy Aria [[Pavel Ryjáček|Pavla Ryjáčka]], složení [[Lektorský sbor|lektorského sboru]] a [[Profesoři Školy Aria|profesorů]], protože se jednalo o veřejné informace. Nehodlám zde však dávat jména řadových účastníků či dokumenty osobní povahy, jako jsou deníky, dopisy či nepublikované filozofické texty Pavla Ryjáčka.
+Přestože mám kritický pohled na Školu Aria na základě své zkušenosti, doufám, že tyto stránky budou spíše neutrálním rozcestníkem a shromaždištěm dokumentů a informací, které jsou či byly veřejné. Z tohoto důvodu zde naleznete i některá jména, například jméno zakladatele a dlouholetého vůdce Školy Aria [[Pavel Ryjáček|Pavla Ryjáčka]], složení [[Lektorský sbor|lektorského sboru]] a [[Profesoři Školy Aria|profesorů]], protože se jednalo o veřejné informace. Nehodlám zde však dávat jména řadových účastníků či dokumenty osobní povahy, jako jsou deníky, dopisy či nepublikované filosofické texty Pavla Ryjáčka.
 
 ### Dále zde naleznete:
 
