@@ -10,7 +10,7 @@ Deník N
 ## 2021
 Zdeněk Vojtíšek: Náboženství na cestách: Paseky nad Jizerou a Škola Aria (2021)
 https://info.dingir.cz/2021/07/nabozenstvi-na-cestach-paseky-nad-jizerou-a-skola-aria/
-* viz [[textappealy]] 
+
 
 ## 2011
 Munimedia
@@ -29,4 +29,4 @@ Munimedia
 **1998**
 Sušické noviny (strana 3)
 * [Ať se pořád něco děje - jen ne klídek aneb XXXI. Konzilium Školy Aria](https://docplayer.cz/6550284-Dalsi-podrobne-informace-ziskate-na-tel-c-0187-52-66-82-nebo-52-03-62-ktera-bude-obsahovat-nabidku.html)
-* > "Co to je Škola Aria? Tak tedy zeširoka. Už šest let se při Českém rozhlase v Praze scházejí pečlivě vybraní nejtalentovanější studenti - no prostě ta část mladé generace, o které se obvykle soudí, že péči vůbec nepotřebuje. Ale omyl. Český rozhlas si dal za úkol starat se právě o takovou skupinu: jak jistě víte, řada mladých lidí bez potřebné opory končí v průměru ostatních, což se navenek projevuje nedostatkem osobnosti."
+> "Co to je Škola Aria? Tak tedy zeširoka. Už šest let se při Českém rozhlase v Praze scházejí pečlivě vybraní nejtalentovanější studenti - no prostě ta část mladé generace, o které se obvykle soudí, že péči vůbec nepotřebuje. Ale omyl. Český rozhlas si dal za úkol starat se právě o takovou skupinu: jak jistě víte, řada mladých lidí bez potřebné opory končí v průměru ostatních, což se navenek projevuje nedostatkem osobnosti."

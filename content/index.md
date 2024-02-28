@@ -24,6 +24,6 @@ Přestože mám kritický pohled na Školu Aria na základě své zkušenosti, d
 - [[Webové stránky ŠA]]
 - [[Stanovy Školy Aria]]
 - [[Struktura Školy Aria]]
-- Dokumenty veřejné povahy 
+- Dokumenty nějakým způsobem zveřejněné
 
 Někdy v budoucnu snad přibude i moje osobní zkušenost se Školou Aria.

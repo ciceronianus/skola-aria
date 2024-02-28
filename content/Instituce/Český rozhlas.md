@@ -1,0 +1,1 @@
+Škola Aria byla po dlouhou dobu "při Českém rozhlasu". V praxi to znamenalo, že dopisy na výběrová řízení účastníků byly posílány na hlavičkovém papíru této instituce a na půdě Českého rozhlasu se odehrávaly [[Interní akce pro členy Školy Aria|různé akce Školy Aria]], například konzilia.
