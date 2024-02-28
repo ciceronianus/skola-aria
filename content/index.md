@@ -23,8 +23,13 @@ Přestože mám kritický pohled na Školu Aria na základě své zkušenosti, d
 
 Fungování Školy Aria:
 - [[Stanovy Školy Aria]]
-- [[Etické zásady Školy Aria]]
 - [[Struktura Školy Aria]]
+	- [[Pavel Ryjáček]]
+	- [[Lektorský sbor]]
+	- [[Profesoři Školy Aria]]
+- [[Etické zásady Školy Aria]]
 - [[Webové stránky ŠA]]
+- [[Interní akce pro členy Školy Aria]]
+- [[Veřejné akce oficiálně pořádané Školou Aria]]
 
 Někdy v budoucnu snad přibude i moje osobní zkušenost se Školou Aria.
