@@ -3,10 +3,10 @@
 
 **Psí dny** byly specifickou součástí letních konzilií. Jednalo se o období dnů, ve kterých se jedl jen chléb, sůl, česnek a pila voda. Typickou činností na Psích dnech bylo psaní textů, například [[3000 slov]].
 
-**Scholy** byly intenzivnějšími setkáními, která se konala přibližně jednou za měsíc. Na rozdíl od konzilií byly scholy rozděleny podle generací a nebyly otevřené všem.  Scholy byly úžeji zaměřené na rozebírání textů a filosofii než konzilia. Ze schol se psaly krátké referáty, tzv. souhrny, které byly též hodnoceny.
+**Scholy** se konaly se přibližně jednou za měsíc o víkendu. Na rozdíl od konzilií byly scholy rozděleny podle generací a nebyly otevřené všem.  Scholy byly zaměřené na rozebírání textů a filosofii. Ze schol se psaly krátké referáty, tzv. souhrny, které byly též hodnoceny.
 
-**Zimní soustředění** probíhala na konci roku a býval v nich větší prostor pro modré hry i různá improvizovaná divadelní představení. Vrcholem bývalo silvestrovské přespávání pod převisem v přírodě a novoroční koupel. 
+**Zimní soustředění** probíhala na konci roku a býval v nich prostor pro modré hry a improvizovaná divadelní představení. Vrcholem bývalo silvestrovské přespávání pod převisem v přírodě a novoroční koupel. 
 
-**Večery setkání** - V době, ve které jsem je zažil (tj. 2002-2011), měly většinou podobu dialogů mezi Pavlem Ryjáčkem či jiným lektorem na straně jedné a hostem či nějakým ze členů Školy Aria na straně druhé. Odehrávaly se několikrát do měsíce ve vybraný všední den večer. V určitých dobách existovaly i méně intenzivní Večery setkání v Brně.
+**Večery setkání** měly většinou podobu dialogů mezi Pavlem Ryjáčkem či jiným lektorem na straně jedné a hostem či nějakým ze členů Školy Aria na straně druhé. Odehrávaly se několikrát do měsíce ve vybraný všední den večer. V určitých dobách existovaly i méně intenzivní Večery setkání v Brně.
 
-**Nadraníci** byl název pro občasná intenzivní ranní setkání užší skupinky členů Školy Aria.
+**Nadraníci** byl název pro intenzivní ranní setkání užší skupinky členů Školy Aria.
