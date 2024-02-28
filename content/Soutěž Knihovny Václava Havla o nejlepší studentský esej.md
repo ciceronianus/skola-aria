@@ -1,4 +1,4 @@
-[Knihovnou Václava Havla](https://www.vaclavhavel.cz/) pořádá už od roku 2009 soutěž o nejlepší studentský esej. Během let  2011 až 2014 tvořili přední členové Školy Aria většinu poroty této soutěže, v jednom roce dokonce celou: https://edu.vaclavhavel.cz/cs/essay . 
+[Knihovna Václava Havla](https://www.vaclavhavel.cz/) pořádá už od roku 2009 soutěž o nejlepší studentský esej. Během let  2011 až 2014 tvořili přední členové Školy Aria většinu poroty této soutěže, v jednom roce dokonce celou: https://edu.vaclavhavel.cz/cs/essay . 
 
 Jednalo se o tyto ročníky:
 - **2011** - Téma: Svoboda projevu a moderní komunikační technologie - dvě strany jedné mince? - [Výsledky](https://edu.vaclavhavel.cz/cs/studentsky-esej/60/3-rocnik-2011)
