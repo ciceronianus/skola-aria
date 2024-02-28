@@ -1,5 +1,5 @@
 
-**Konzilia** byla nejvíce oficiální akcí Školy Aria. Odehrávala se jednou za několik měsíců. Byli zváni na ně hosté a psali se k jejich příležitosti eseje, které byly komentovány, veřejně hodnoceny a známkovány. Nejvýznamnější bylo každoroční letní konzilium. Za dobu existence Školy Aria proběhlo více než 90 konzilií. 
+**Konzilia** byla nejvíce oficiální akcí Školy Aria. Odehrávala se jednou za několik měsíců (oficiálně jednou za 77 dní). Byli zváni na ně hosté a psali se k jejich příležitosti eseje, které byly komentovány, veřejně hodnoceny a známkovány. Nejvýznamnější bylo každoroční letní konzilium. Za dobu existence Školy Aria proběhlo více než 90 konzilií. 
 
 **Psí dny** byly specifickou součástí letních konzilií. Jednalo se o období dnů, ve kterých se jedl jen chléb, sůl, česnek a pila voda. Typickou činností na Psích dnech bylo psaní textů, například [[3000 slov]].
 

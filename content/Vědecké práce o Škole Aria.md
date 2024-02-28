@@ -3,10 +3,8 @@
 
 **Mariana Slačálková Otterová: Škola Aria jako případ implicitního náboženství (2017) - bakalářská práce**
 * Vedoucí práce: [[Zdeněk Vojtíšek]]
-* [Základní informace](http://invenio.nusl.cz/record/368779?ln=en)
+* [Základní informace o bakalářské práci](http://invenio.nusl.cz/record/368779?ln=en)
 * Silně redigovaná verze [k dispozici online](https://dspace.cuni.cz/bitstream/handle/20.500.11956/92274/130277553.pdf?sequence=1&isAllowed=y)
-  
-![](https://scrapbox.io/files/622b76d156597f001d005bab.png)
-
+![[bakalarka_redigovana.png]]
 
 

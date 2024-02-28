@@ -14,8 +14,6 @@ Logo Školy Aria
 
 Přestože mám kritický pohled na Školu Aria na základě své zkušenosti, doufám, že tyto stránky budou spíše neutrálním rozcestníkem a shromaždištěm dokumentů a informací, které jsou či byly veřejné.
 
-### Dále zde naleznete:
-
 - [[Články o Škole Aria v médiích]]
 - [[Rozhlasové pořady a podcasty o ŠA]]
 - [[Blogové a jiné příspěvky o ŠA]]

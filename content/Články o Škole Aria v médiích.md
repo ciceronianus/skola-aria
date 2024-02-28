@@ -12,8 +12,6 @@ dingir.info
 - Zdeněk Vojtíšek: Náboženství na cestách: Paseky nad Jizerou a Škola Aria (2021)
 	- https://info.dingir.cz/2021/07/nabozenstvi-na-cestach-paseky-nad-jizerou-a-skola-aria/
 
-
-
 ## 2011
 Munimedia
 * https://web.archive.org/web/20150509234215/http://munimedia.cz/prispevek/skola-aria-sdruzuje-talentovane-mlade-lidi-832/

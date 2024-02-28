@@ -2,6 +2,6 @@ Nejstarší dohledatelné webové stránky se nacházely na [ario.mladez.cz](htt
 [https://scrapbox.io/files/65ddc4505bed700024eaf2f1.png]
 ![[ario-webpage-2003.png]]
 
-Později, asi okolo roku 2004, byly stránky přesunuty na [ario.info](https://web.archive.org/web/20060414065603/http://ario.info:80/). Tyto stránky zanikly spolu se Školou Aria někdy okolo roku 2013.
+Asi ve stejném roce (tj. roku 2004) byly stránky přesunuty na [ario.info](https://web.archive.org/web/20060414065603/http://ario.info:80/). Tyto stránky zanikly spolu se Školou Aria někdy okolo roku 2014.
 ![[ario-webpage-2004.png]]
 
