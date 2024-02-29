@@ -1,1 +1,1 @@
-Skautský oddíl v Teplicích, ze kterého se vyvinula [[Škola Aria]].
+Skautský oddíl v Teplicích, ze kterého se vyvinula Škola Aria.
