@@ -2,17 +2,17 @@
 title: Vítejte!
 ---
 
-> [!Warning] Work in progress
+> [!WARNING] Pracovní verze
+> Stále hledám správnou podobu pro tyto stránky a pro jejich obsah.
 
-Veřejný online kalendář Školy Aria měl jednu zvláštnost: byly do něj zapsány narozeniny nejenom jejích současných účastníků a účastnic, ale také těch, kteří ji opustili, u nich však s poznámkou =="blahé paměti"==. **Název těchto stránek odkazuje na tento zvyk, Škola Aria je totiž nyní též "blahé paměti".** Byla založena v roce 1992 a skončila oficiálně po 22 letech v roce 2014. Různými způsoby však funguje dodnes. Cílem těchto stránek je shromažďovat informace o této jedinečné a zároveň kontroverzní organizaci. 
+## Proč „blahé paměti“?
+Veřejný kalendář Školy Aria měl jednu zvláštnost: byly do něj zapsány narozeniny nejenom jejích současných účastníků a účastnic, ale také těch, kteří ji opustili, u nich však s poznámkou „blahé paměti“. **Název těchto stránek odkazuje na tento zvyk, Škola Aria je totiž nyní též „blahé paměti“.** Byla založena v roce 1992 a skončila oficiálně po 22 letech v roce 2014. Různými způsoby však funguje dodnes. 
 
 ![[logo_ŠA.png]]
 
-Logo Školy Aria
+Logo Školy Aria z roku 2004
 
 ## Co zde naleznete?
-
-Přestože mám kritický pohled na Školu Aria na základě své zkušenosti, doufám, že tyto stránky budou spíše neutrálním rozcestníkem a shromaždištěm dokumentů a informací, které jsou či byly veřejné.
 
 Články, studie, podcasty, debaty:
 - [[Články o Škole Aria v médiích]]
@@ -30,4 +30,5 @@ Fungování Školy Aria:
 - [[Veřejné akce oficiálně pořádané Školou Aria|Veřejné akce]]
 - [[Soutěž Knihovny Václava Havla o nejlepší studentský esej|Neoficiálně pořádané akce]]
 
-Někdy v budoucnu snad přibude i moje osobní zkušenost se Školou Aria.
+Někdy v budoucnu snad přibude i moje osobní zkušenost se Školou Aria. Zatím musí postačit jenom krátké [[Kdo jsem a proč tyto stránky]]?
+
